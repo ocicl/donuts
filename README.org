@@ -1,0 +1,10 @@
+* donuts
+
+Graph Drawing DSL (or Graphviz Interface) for Common Lisp.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/tkych/donuts.git   |
+| commit  | 6ebbdc1  |
+| systems | donuts |
+|---------+-------------------------------------------|
+
